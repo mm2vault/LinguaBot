@@ -1,0 +1,6 @@
+{
+  "name": "LinguaBot",
+  "description": "Duolingo-style language learning with an expressive purple AI robot companion, adaptive lesson plans, and 100+ languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
