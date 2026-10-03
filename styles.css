@@ -34,3 +34,5 @@
 .heroMain .btn,.byteCard .btn{margin-top:10px}
 button{touch-action:manipulation}
 @media(max-width:600px){.topStats .topStat{min-width:40px}.topStats .topStat b{font-size:11px}.uiIcon{margin-right:4px}}
+
+.uiCrown:before{content:"";left:2px;top:5px;width:14px;height:9px;border:2px solid currentColor;border-top:0;clip-path:polygon(0 0,20% 45%,50% 0,80% 45%,100% 0,88% 100%,12% 100%)}.uiCheck:before{left:3px;top:5px;width:10px;height:6px;border-left:2px solid #86efac;border-bottom:2px solid #86efac;transform:rotate(-45deg)}.uiX:before,.uiX:after{left:8px;top:2px;height:14px;border-left:2px solid #fb7185}.uiX:before{transform:rotate(45deg)}.uiX:after{transform:rotate(-45deg)}.uiAngry:before{left:2px;top:5px;width:14px;height:8px;border-top:2px solid #fb7185;transform:skewY(-18deg)}
